@@ -1,0 +1,5 @@
+﻿CREATE TABLE ServicosCompartilhados(
+	ID INT PRIMARY KEY IDENTITY,
+	SIGLA VARCHAR(10),
+	UF VARCHAR(2)
+)
